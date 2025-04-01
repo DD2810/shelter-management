@@ -42,7 +42,7 @@ This project is a web-based platform designed to enhance accessibility to shelte
 
 - [Huan LV](https://github.com/huanlv-git) - Project Lead  
 - [Anthony Nguyen](https://github.com/realanguyen96) - Backend Feature Development  / Bug Fixes
-- [Andy Nguyen](https://github.com/another-contributor) - Frontend Feature Development  / Design
+- [Andy Nguyen](https://github.com/thachha-nguyen) - Frontend Feature Development  / Design
 - [Dawn Dang](https://github.com/contributor-username) - Frontend Feature Development  / Design
 - [Divyanshu Fialok](https://github.com/another-contributor) - Backend Feature Development  / Bug Fixes
 
